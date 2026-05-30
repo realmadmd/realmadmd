@@ -1,16 +1,50 @@
-## Hi there 👋
+# DAUD AHMED
 
-<!--
-**realmadmd/realmadmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Engineer & SaaS Architect
 
-Here are some ideas to get you started:
+## What I Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SaaS Platforms
+- Booking Systems
+- CRM Systems
+- Internal Business Tools
+- Admin Dashboards
+- API Integrations
+- Workflow Automation
+
+## Tech Stack
+
+Frontend:
+- React
+- Next.js
+- Tailwind CSS
+
+Backend:
+- Node.js
+- Express
+
+Databases:
+- PostgreSQL
+- MongoDB
+- MySQL
+
+Architecture:
+- Multi-Tenant SaaS
+- RBAC
+- High-Concurrency Systems
+- Payment Integrations
+- REST APIs
+
+## Recent Work
+
+### FVTURE Bangkok
+Custom venue management platform including:
+
+- Seat booking engine
+- QR ticketing system
+- Loyalty system
+- Voucher management
+- Admin dashboards
+- Customer management
+
+Capacity: 6,000 concurrent venue users
