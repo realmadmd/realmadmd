@@ -1,50 +1,108 @@
-# DAUD AHMED
+# Ahmed Daud
 
-Full-Stack Engineer & SaaS Architect
+🚀 Full-Stack Engineer | SaaS Architect | Business Systems Builder
+
+I help businesses replace spreadsheets, disconnected tools, and manual workflows with scalable software that grows with them.
+
+Over the past few years, I've designed and developed custom SaaS platforms, booking systems, CRM solutions, internal business tools, and automation platforms used by growing businesses and high-volume operations.
+
+---
 
 ## What I Build
 
-- SaaS Platforms
-- Booking Systems
-- CRM Systems
-- Internal Business Tools
-- Admin Dashboards
-- API Integrations
-- Workflow Automation
+🔹 Multi-Tenant SaaS Platforms
+
+🔹 Booking & Reservation Systems
+
+🔹 CRM & Customer Management Platforms
+
+🔹 Internal Business Tools
+
+🔹 Admin Dashboards & Backoffice Systems
+
+🔹 Workflow Automation
+
+🔹 API Integrations
+
+🔹 QR Verification & Tracking Systems
+
+🔹 Payment & Subscription Platforms
+
+---
+
+## Architecture Focus
+
+I don't just build features.
+
+I design systems that remain maintainable when your users, data, and business operations grow.
+
+Areas of focus:
+
+- Multi-Tenant Architecture
+- RBAC & Permission Systems
+- High-Concurrency Applications
+- Event-Driven Workflows
+- API-First Development
+- Performance Optimization
+- Secure Authentication Systems
+- Scalable Database Design
+
+---
 
 ## Tech Stack
 
-Frontend:
-- React
-- Next.js
-- Tailwind CSS
+### Frontend
+React • Next.js • TypeScript • Tailwind CSS
 
-Backend:
-- Node.js
-- Express
+### Backend
+Node.js • Express • REST APIs
 
-Databases:
-- PostgreSQL
-- MongoDB
-- MySQL
+### Databases
+PostgreSQL • MongoDB • MySQL
 
-Architecture:
-- Multi-Tenant SaaS
-- RBAC
-- High-Concurrency Systems
-- Payment Integrations
-- REST APIs
+### Infrastructure
+Cloud Deployments • CI/CD • Security Hardening
 
-## Recent Work
+---
 
-### FVTURE Bangkok
-Custom venue management platform including:
+## Featured Project — FVTURE Bangkok
 
-- Seat booking engine
-- QR ticketing system
-- Loyalty system
-- Voucher management
-- Admin dashboards
-- Customer management
+One of Bangkok's largest entertainment venues.
 
-Capacity: 6,000 concurrent venue users
+Designed and engineered a complete venue management platform supporting a 6,000-capacity operation.
+
+### Platform Features
+
+✔ Interactive Seat Booking Engine
+
+✔ QR Ticket Generation & Validation
+
+✔ Loyalty & Rewards System
+
+✔ VIP Bottle Reservation Management
+
+✔ Voucher Management
+
+✔ Customer Management Platform
+
+✔ Administrative Dashboards
+
+✔ Operational Reporting
+
+### Results
+
+📈 Thousands of concurrent booking requests
+
+📈 Automated venue check-ins
+
+📈 Reduced manual operational overhead
+
+📈 Built for long-term scalability
+
+---
+
+## Current Focus
+
+Building scalable SaaS products, booking platforms, operational systems, and custom business software for companies that need more than off-the-shelf solutions.
+
+📫 Open to collaboration, consulting, and long-term development partnerships.
