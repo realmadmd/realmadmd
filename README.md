@@ -1,108 +1,227 @@
-# Ahmed Daud
+# 🚀 Muhammad Daud Ahmed
 
-🚀 Full-Stack Engineer | SaaS Architect | Business Systems Builder
+### Founder & CEO @ Eonstack
 
-I help businesses replace spreadsheets, disconnected tools, and manual workflows with scalable software that grows with them.
-
-Over the past few years, I've designed and developed custom SaaS platforms, booking systems, CRM solutions, internal business tools, and automation platforms used by growing businesses and high-volume operations.
+Building SaaS Platforms • AI Solutions • Enterprise Software • Mobile Apps
 
 ---
 
-## What I Build
+## Who I Am
 
-🔹 Multi-Tenant SaaS Platforms
+I'm the founder of Eonstack, a software development company focused on building scalable digital products for startups, businesses, and enterprises.
 
-🔹 Booking & Reservation Systems
+My team and I design, develop, and deploy complete software ecosystems — from SaaS platforms and healthcare systems to AI-powered solutions, enterprise dashboards, mobile applications, and automation platforms.
 
-🔹 CRM & Customer Management Platforms
+I believe software should solve operational problems, reduce manual work, and create measurable business growth.
 
-🔹 Internal Business Tools
+---
 
-🔹 Admin Dashboards & Backoffice Systems
+## What We Build
 
-🔹 Workflow Automation
+### SaaS Platforms
 
-🔹 API Integrations
+Multi-tenant SaaS applications built for scale.
 
-🔹 QR Verification & Tracking Systems
+### Enterprise Software
 
-🔹 Payment & Subscription Platforms
+Operational systems, ERP solutions, internal business platforms, and workflow automation.
+
+### Healthcare Platforms
+
+Appointment management, patient records, doctor dashboards, clinic administration, and healthcare operations.
+
+### Mobile Applications
+
+iOS and Android applications using modern frameworks and scalable architectures.
+
+### AI Solutions
+
+AI agents, workflow automation, intelligent business systems, and custom integrations.
+
+### UI/UX & Product Design
+
+Modern user experiences focused on conversion, usability, and scalability.
+
+### 3D & Product Animation
+
+Interactive product visualization, 3D web experiences, and product animations.
 
 ---
 
 ## Architecture Focus
 
-I don't just build features.
+I don't just build applications.
 
-I design systems that remain maintainable when your users, data, and business operations grow.
+I design systems that continue performing when users, teams, and business operations grow.
 
-Areas of focus:
+### Core Expertise
 
-- Multi-Tenant Architecture
-- RBAC & Permission Systems
-- High-Concurrency Applications
-- Event-Driven Workflows
-- API-First Development
-- Performance Optimization
-- Secure Authentication Systems
-- Scalable Database Design
+* Multi-Tenant Architecture
+* Role Based Access Control (RBAC)
+* Healthcare Systems
+* SaaS Architecture
+* API Design
+* Workflow Automation
+* Enterprise Dashboards
+* Secure Authentication
+* Database Optimization
+* Cloud Infrastructure
+* Performance Engineering
+* System Scalability
 
 ---
 
-## Tech Stack
+## Technology Stack
 
 ### Frontend
-React • Next.js • TypeScript • Tailwind CSS
+
+* React
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Redux
+* Three.js
 
 ### Backend
-Node.js • Express • REST APIs
+
+* Node.js
+* NestJS
+* Express
+* REST APIs
+* GraphQL
 
 ### Databases
-PostgreSQL • MongoDB • MySQL
 
-### Infrastructure
-Cloud Deployments • CI/CD • Security Hardening
+* PostgreSQL
+* MongoDB
+* MySQL
+* Redis
 
----
+### Cloud & DevOps
 
-## Featured Project — FVTURE Bangkok
+* Docker
+* AWS
+* Vercel
+* CI/CD
+* Linux Servers
 
-One of Bangkok's largest entertainment venues.
+### Mobile
 
-Designed and engineered a complete venue management platform supporting a 6,000-capacity operation.
+* React Native
+* Flutter
 
-### Platform Features
+### AI & Automation
 
-✔ Interactive Seat Booking Engine
-
-✔ QR Ticket Generation & Validation
-
-✔ Loyalty & Rewards System
-
-✔ VIP Bottle Reservation Management
-
-✔ Voucher Management
-
-✔ Customer Management Platform
-
-✔ Administrative Dashboards
-
-✔ Operational Reporting
-
-### Results
-
-📈 Thousands of concurrent booking requests
-
-📈 Automated venue check-ins
-
-📈 Reduced manual operational overhead
-
-📈 Built for long-term scalability
+* OpenAI
+* Claude
+* Gemini
+* n8n
+* AI Agents
+* Workflow Automation
 
 ---
 
-## Current Focus
+# Featured Projects
 
-Building scalable SaaS products, booking platforms, operational systems, and custom business software for companies that need more than off-the-shelf solutions.
+## DoctorSpace
 
-📫 Open to collaboration, consulting, and long-term development partnerships.
+Comprehensive healthcare management platform.
+
+### Features
+
+* Doctor Management
+* Staff Management
+* Patient Records
+* Appointments
+* Billing
+* Reporting
+* Mobile Support
+* Multi-Role Access
+
+### Stack
+
+Next.js • NestJS • PostgreSQL
+
+---
+
+## Enterprise RFQ & Operations Platform
+
+Large-scale operational intelligence and vendor management platform.
+
+### Features
+
+* RFQ Management
+* Vendor Portal
+* Workflow Automation
+* Reporting
+* Approval Systems
+* Analytics
+
+### Stack
+
+Next.js • Node.js • PostgreSQL
+
+---
+
+## Custom SaaS Solutions
+
+Built multiple SaaS products focused on:
+
+* Automation
+* Internal Operations
+* CRM Systems
+* Booking Systems
+* Subscription Platforms
+
+---
+
+# Eonstack Services
+
+✅ SaaS Development
+
+✅ Enterprise Software
+
+✅ Mobile App Development
+
+✅ AI Integrations
+
+✅ Healthcare Systems
+
+✅ CRM Solutions
+
+✅ ERP Systems
+
+✅ Automation Platforms
+
+✅ UI/UX Design
+
+✅ SEO & Marketing
+
+✅ 3D Product Visualization
+
+✅ Product Animation
+
+---
+
+# Current Mission
+
+Building Eonstack into a globally recognized software company capable of delivering world-class digital products for businesses across healthcare, operations, SaaS, AI, and enterprise technology sectors.
+
+---
+
+
+---
+
+# Connect With Me
+
+🌐 Website: https://eonstack.com
+
+💼 LinkedIn: https://linkedin.com/company/eonstack
+
+📧 Email: [ahmed@eonstack.com](mailto:ahmed@eonstack.com)
+
+---
+
+### "Great software isn't built by writing code. It's built by solving business problems at scale."
+
+— Daud Ahmed
