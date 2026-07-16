@@ -8,18 +8,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:121212,28:131110,52:181410,72:221A12,86:3A2A18,94:6E4E28,100:C9A66B&amp;height=280&amp;section=header&amp;text=Daud%20Ahmed&amp;fontSize=54&amp;fontColor=F7F1E8&amp;fontAlignY=35&amp;desc=Full%20Stack%20Architecture%20Developer&amp;descSize=19&amp;descAlignY=54&amp;descColor=C9A66B&amp;animation=fadeIn" width="100%" alt="Daud Ahmed" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=17&amp;duration=4200&amp;pause=1400&amp;color=C9A66B&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=38&amp;lines=Building+scalable+systems+that+grow+with+business;SaaS+%E2%80%A2+Healthcare+%E2%80%A2+Enterprise+%E2%80%A2+AI;Architecture+first.+Product+obsessed." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=17&amp;duration=4200&amp;pause=1400&amp;color=C9A66B&amp;center=true&amp;vCenter=true&amp;width=780&amp;height=38&amp;lines=Building+complete+platforms+that+scale+with+business;SaaS+%E2%80%A2+Ecommerce+%E2%80%A2+Healthcare+%E2%80%A2+Enterprise+%E2%80%A2+AI;Architecture+first.+Product+obsessed." alt="Typing animation" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Full_Stack-Architecture-121212?style=for-the-badge&amp;labelColor=181410&amp;color=C9A66B" alt="Full Stack" />
-<img src="https://img.shields.io/badge/SaaS-Platforms-121212?style=for-the-badge&amp;labelColor=181410&amp;color=B8954A" alt="SaaS" />
-<img src="https://img.shields.io/badge/Healthcare-Systems-121212?style=for-the-badge&amp;labelColor=181410&amp;color=A67C3D" alt="Healthcare" />
-<img src="https://img.shields.io/badge/AI-Integrations-121212?style=for-the-badge&amp;labelColor=181410&amp;color=8B6A32" alt="AI" />
+### Designing end-to-end product systems — not disconnected features.
+
+<br />
+
+<img src="https://img.shields.io/badge/SaaS-121212?style=for-the-badge&amp;labelColor=181410&amp;color=C9A66B" alt="SaaS" />
+<img src="https://img.shields.io/badge/Ecommerce-121212?style=for-the-badge&amp;labelColor=181410&amp;color=B8954A" alt="Ecommerce" />
+<img src="https://img.shields.io/badge/Healthcare-121212?style=for-the-badge&amp;labelColor=181410&amp;color=A67C3D" alt="Healthcare" />
+<img src="https://img.shields.io/badge/Enterprise-121212?style=for-the-badge&amp;labelColor=181410&amp;color=8B6A32" alt="Enterprise" />
+<img src="https://img.shields.io/badge/AI-121212?style=for-the-badge&amp;labelColor=181410&amp;color=C9A66B" alt="AI" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Available-Architecture_%26_Product_Builds-C9A66B?style=for-the-badge&amp;labelColor=121212" alt="Available" />
+<img src="https://img.shields.io/badge/Status-Open_to_Collaborate-C9A66B?style=for-the-badge&amp;labelColor=121212" alt="Open to collaborate" />
 
 <br /><br />
 
@@ -41,17 +46,17 @@
 
 <br />
 
-I'm **Daud Ahmed** — a **Full Stack Architecture Developer** focused on designing and shipping scalable digital products for startups, businesses, and enterprises.
+I'm **Daud Ahmed** — a **Full Stack Architecture Developer** focused on designing and shipping complete digital platforms for startups, businesses, and enterprises.
 
-I don't just write features. I design **end-to-end software ecosystems** — from multi-tenant SaaS platforms and healthcare systems to AI-powered workflows, enterprise dashboards, mobile applications, and automation platforms.
+I don't just write features. I design **end-to-end software ecosystems** — from multi-tenant SaaS and ecommerce platforms to healthcare systems, enterprise dashboards, mobile applications, and AI-powered automation.
 
-My work sits at the intersection of product thinking and system design. I care about what users need to accomplish, how teams operate day to day, and how the underlying architecture will behave when traffic, roles, and business rules expand.
+My work sits at the intersection of product thinking and system design. I care about what buyers, sellers, operators, and teams need to accomplish — and how the architecture will behave when traffic, catalog size, roles, and business rules expand.
 
 I believe software should:
 
-- solve real operational problems instead of adding more manual process  
-- reduce repetitive work across teams and departments  
-- create measurable business growth through clearer workflows  
+- solve real operational and revenue problems  
+- reduce manual work across teams and departments  
+- create measurable growth through clearer product workflows  
 - keep performing when users, data, and complexity increase  
 
 > **Great software isn't built by writing code.**  
@@ -60,7 +65,7 @@ I believe software should:
 **How I create value**
 
 - **Architecture** → multi-tenant systems, RBAC, APIs, data modeling, service boundaries → systems that scale cleanly  
-- **Product Delivery** → SaaS, healthcare, enterprise platforms, mobile, dashboards → complete products shipped end to end  
+- **Platform Delivery** → SaaS, ecommerce, healthcare, enterprise, mobile → complete products shipped end to end  
 - **Intelligence** → AI agents, workflow automation, custom integrations → less operational drag, more business leverage  
 
 <div align="center">
@@ -76,7 +81,21 @@ I believe software should:
 
 <br />
 
-I build complete product systems — not isolated screens, scripts, or disconnected modules. Each product is designed as a coherent ecosystem: frontend, backend, data, access control, and operational workflows working together.
+I build **complete product platforms** — not isolated screens, scripts, or disconnected modules. Each product is designed as a coherent ecosystem: storefront or app, APIs, data, access control, payments or operations, and admin workflows working together.
+
+### Commerce Platforms
+
+Complete ecommerce systems — not just product pages. I design storefronts, catalogs, carts, checkout, order management, inventory, seller/admin portals, and payment-ready architecture so businesses can sell and operate through one coherent platform.
+
+This includes:
+
+- single-brand stores and multi-vendor marketplaces  
+- product discovery, cart, and conversion-focused checkout flows  
+- inventory and order lifecycle foundations  
+- vendor / seller portals and admin operations  
+- payment integrations, webhooks, and operational reporting  
+
+**Outcome:** commerce platforms ready for real sales operations — catalog → checkout → fulfillment → admin.
 
 ### SaaS Platforms
 
@@ -128,15 +147,15 @@ Modern user experiences focused on conversion, usability, and scalability. This 
 <br />
 
 I don't just build applications.  
-I design systems that continue performing when users, teams, and business operations grow.
+I design systems that continue performing when users, teams, catalogs, and business operations grow.
 
 That means thinking beyond screens:
 
-- how data is structured and protected  
-- how roles and permissions map to real organizations  
-- how APIs stay stable as clients multiply  
+- how catalogs, inventory, and orders stay consistent under load  
+- how roles and permissions map to buyers, sellers, staff, and admins  
+- how payments, webhooks, and APIs stay reliable as clients multiply  
 - how workflows can be automated without becoming opaque  
-- how infrastructure and performance hold up under pressure  
+- how infrastructure and performance hold up under peak demand  
 
 ### System Layers
 
@@ -153,15 +172,17 @@ Schema design, indexing, caching, query performance, integrity, reporting founda
 Docker, cloud deployment, CI/CD, environments, observability, operational readiness.
 
 **5. Experience Layer**  
-Web apps, dashboards, mobile clients, conversion-focused UX, design systems.
+Web apps, storefronts, dashboards, mobile clients, conversion-focused UX, design systems.
 
 ### Core Expertise
 
-- **Multi-Tenant Architecture** — safe isolation, shared infrastructure efficiency, tenant-aware data access that grows with customers  
-- **Role Based Access Control** — permission models that mirror real org, clinic, and enterprise roles  
+- **Multi-Tenant Architecture** — safe isolation, shared infrastructure efficiency, tenant-aware data access  
+- **Commerce Platform Architecture** — catalogs, cart/checkout, orders, inventory, seller/admin operations  
+- **Role Based Access Control** — permission models for buyers, sellers, staff, clinics, and enterprises  
 - **Healthcare Systems** — appointments, records, portals, billing, and clinic workflows  
 - **SaaS Architecture** — onboarding, subscriptions, organization lifecycle, modular feature growth  
 - **API Design** — clean REST / GraphQL contracts that stay stable for web and mobile clients  
+- **Payments & Integrations** — payment flows, webhooks, idempotent event handling, third-party systems  
 - **Workflow Automation** — approvals, queues, orchestration, and process reliability  
 - **Enterprise Dashboards** — reporting, analytics, and operational visibility for decision makers  
 - **Secure Authentication** — sessions, tokens, protected routes, least-privilege access  
@@ -189,7 +210,7 @@ A production stack chosen for **clarity, speed, and long-term scale** — typed 
 
 <br />
 
-<img src="https://readmeforge.natrajx.in/api/skill-tree?skills=TypeScript:93,Next.js:91,NestJS:89,PostgreSQL:88,Architecture:92,DevOps:84&amp;metal=gold&amp;width=900" width="100%" alt="Core strengths" />
+<img src="https://readmeforge.natrajx.in/api/skill-tree?skills=TypeScript:93,Next.js:91,NestJS:89,PostgreSQL:88,Architecture:92,Commerce+Systems:90&amp;metal=gold&amp;width=900" width="100%" alt="Core strengths" />
 
 <br /><br />
 
@@ -241,10 +262,9 @@ A production stack chosen for **clarity, speed, and long-term scale** — typed 
 
 <br />
 
-<!-- Terminal: full-width, own block, simple ASCII-safe query params -->
 <div align="center">
 
-<img src="https://readmeforge.natrajx.in/api/terminal?title=daud-ahmed&amp;lines=role:+full+stack+architecture+developer|focus:+saas+healthcare+enterprise+ai|stack:+typescript+next+nest+postgres|mode:+architecture-first+ship+complete+systems&amp;metal=obsidian&amp;width=900" width="100%" alt="Developer terminal" />
+<img src="https://readmeforge.natrajx.in/api/terminal?title=daud-ahmed&amp;lines=role:+full+stack+architecture+developer|focus:+saas+ecommerce+healthcare+enterprise+ai|stack:+typescript+next+nest+postgres|mode:+complete+platforms+architecture-first&amp;metal=obsidian&amp;width=900" width="100%" alt="Developer terminal" />
 
 </div>
 
@@ -369,8 +389,9 @@ Premium nightlife needs more than a static website. Guests need fast ticket purc
 
 <br />
 
-Beyond featured products, I have designed and delivered SaaS and operational systems across automation, internal operations, CRM, booking, subscriptions, enterprise RFQ workflows, and analytics-driven approval systems.
+Beyond featured products, I have designed and delivered complete platforms across commerce, SaaS, automation, internal operations, CRM, booking, subscriptions, enterprise RFQ workflows, and analytics-driven approval systems.
 
+- **Commerce Platforms** — storefronts, marketplaces, checkout flows, catalogs, order/inventory foundations, seller/admin ops  
 - **SaaS Products** — subscription platforms, booking systems, CRM foundations, multi-tenant modules  
 - **Enterprise Ops** — RFQ platforms, vendor portals, approval systems, analytics dashboards  
 - **Internal Tools** — operations dashboards, workflow engines, reporting systems, admin platforms  
@@ -394,7 +415,7 @@ Understand business goals, users, constraints, operational pain points, and succ
 Define tenancy, data model, access control, API boundaries, and module structure.
 
 **03 · Build**  
-Ship clean, typed, maintainable product surfaces across web, dashboards, and mobile.
+Ship clean, typed, maintainable product surfaces across web, storefronts, dashboards, and mobile.
 
 **04 · Automate**  
 Add workflows, AI assist, queues, and ops tooling where automation creates real leverage.
@@ -420,24 +441,24 @@ Optimize performance, reliability, infrastructure, and observability as usage gr
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SaaS%20Development-121212?style=for-the-badge&amp;color=C9A66B" alt="SaaS" />
-<img src="https://img.shields.io/badge/Enterprise%20Software-121212?style=for-the-badge&amp;color=B8954A" alt="Enterprise" />
-<img src="https://img.shields.io/badge/Mobile%20Apps-121212?style=for-the-badge&amp;color=A67C3D" alt="Mobile" />
-<img src="https://img.shields.io/badge/AI%20Integrations-121212?style=for-the-badge&amp;color=8B6A32" alt="AI" />
+<img src="https://img.shields.io/badge/Commerce%20Platforms-121212?style=for-the-badge&amp;color=C9A66B" alt="Commerce" />
+<img src="https://img.shields.io/badge/SaaS%20Development-121212?style=for-the-badge&amp;color=B8954A" alt="SaaS" />
+<img src="https://img.shields.io/badge/Enterprise%20Software-121212?style=for-the-badge&amp;color=A67C3D" alt="Enterprise" />
+<img src="https://img.shields.io/badge/Mobile%20Apps-121212?style=for-the-badge&amp;color=8B6A32" alt="Mobile" />
 
 <br /><br />
 
 <img src="https://img.shields.io/badge/Healthcare%20Systems-121212?style=for-the-badge&amp;color=C9A66B" alt="Healthcare" />
-<img src="https://img.shields.io/badge/CRM%20Solutions-121212?style=for-the-badge&amp;color=B8954A" alt="CRM" />
-<img src="https://img.shields.io/badge/ERP%20Systems-121212?style=for-the-badge&amp;color=A67C3D" alt="ERP" />
-<img src="https://img.shields.io/badge/Automation%20Platforms-121212?style=for-the-badge&amp;color=8B6A32" alt="Automation" />
+<img src="https://img.shields.io/badge/Marketplaces-121212?style=for-the-badge&amp;color=B8954A" alt="Marketplaces" />
+<img src="https://img.shields.io/badge/CRM%20Solutions-121212?style=for-the-badge&amp;color=A67C3D" alt="CRM" />
+<img src="https://img.shields.io/badge/AI%20Integrations-121212?style=for-the-badge&amp;color=8B6A32" alt="AI" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/UI%2FUX%20Design-121212?style=for-the-badge&amp;color=C9A66B" alt="UIUX" />
-<img src="https://img.shields.io/badge/SEO_%26_Marketing-121212?style=for-the-badge&amp;color=B8954A" alt="SEO" />
-<img src="https://img.shields.io/badge/3D%20Visualization-121212?style=for-the-badge&amp;color=A67C3D" alt="3D" />
-<img src="https://img.shields.io/badge/Product%20Animation-121212?style=for-the-badge&amp;color=8B6A32" alt="Animation" />
+<img src="https://img.shields.io/badge/Automation%20Platforms-121212?style=for-the-badge&amp;color=C9A66B" alt="Automation" />
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-121212?style=for-the-badge&amp;color=B8954A" alt="UIUX" />
+<img src="https://img.shields.io/badge/SEO_%26_Marketing-121212?style=for-the-badge&amp;color=A67C3D" alt="SEO" />
+<img src="https://img.shields.io/badge/3D%20%26%20Animation-121212?style=for-the-badge&amp;color=8B6A32" alt="3D" />
 
 </div>
 
@@ -451,15 +472,15 @@ Optimize performance, reliability, infrastructure, and observability as usage gr
 
 What I'm sharpening and shipping right now:
 
+- **Complete commerce platforms** — storefronts, marketplaces, checkout, catalog, and seller/admin ops  
 - **Scalable SaaS architecture** — tenancy, RBAC, billing-ready product foundations  
 - **Healthcare product systems** — clinic ops, patient journeys, secure multi-role access  
 - **AI-assisted workflows** — agents and automation that remove real operational drag  
-- **Premium product experiences** — conversion-minded UI with architecture that can grow  
 
 <div align="center">
 <br />
 <img src="https://img.shields.io/badge/Building-DoctorSpace_%26_FVTURE-121212?style=for-the-badge&amp;labelColor=181410&amp;color=C9A66B" alt="Building" />
-<img src="https://img.shields.io/badge/Open_to-Architecture_%26_Product_Work-121212?style=for-the-badge&amp;labelColor=181410&amp;color=B8954A" alt="Open to work" />
+<img src="https://img.shields.io/badge/Open_to-Platform_%26_Commerce_Builds-121212?style=for-the-badge&amp;labelColor=181410&amp;color=B8954A" alt="Open to work" />
 </div>
 
 ---
@@ -473,16 +494,16 @@ What I'm sharpening and shipping right now:
 If we collaborate, you get more than screens — you get a complete product system thinking partner.
 
 - **Clear architecture early** — so features don't paint the product into a corner  
-- **End-to-end ownership** — frontend, backend, data, auth, and deployment considered together  
+- **End-to-end ownership** — frontend, backend, data, auth, payments/ops, and deployment considered together  
 - **Business-aware decisions** — every module should reduce friction or unlock growth  
 - **Production-minded delivery** — security, performance, and maintainability built in  
 - **Honest tradeoffs** — ship what matters first, design the rest to scale  
 
 Best fit for:
 
-- startups building the first serious version of a SaaS product  
-- businesses replacing fragmented ops with one coherent platform  
-- teams that need healthcare, enterprise, mobile, or AI systems done properly  
+- founders building a serious SaaS or ecommerce platform  
+- businesses replacing fragmented store + ops tools with one coherent system  
+- teams that need healthcare, enterprise, marketplace, mobile, or AI systems done properly  
 
 ---
 
@@ -492,7 +513,7 @@ Best fit for:
 
 <br />
 
-Building a reputation as a **full stack architecture developer** who delivers world-class digital products across healthcare, operations, SaaS, AI, and enterprise technology — systems that look premium, run reliably, and scale with the business.
+Building a reputation as a **full stack architecture developer** who delivers world-class digital platforms across ecommerce, healthcare, SaaS, AI, and enterprise technology — systems that look premium, run reliably, and scale with the business.
 
 I want every product I ship to feel intentional: clear for users, strong under load, and designed for growth instead of short-term delivery pressure.
 
