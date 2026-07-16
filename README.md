@@ -22,6 +22,10 @@
 
 <br /><br />
 
+<img src="https://readmeforge.natrajx.in/api/badge?label=Available&value=Architecture+%26+Product+Builds&metal=gold&shape=pill" alt="Available" />
+
+<br /><br />
+
 <a href="mailto:heydaudahmed@gmail.com"><img src="https://img.shields.io/badge/heydaudahmed%40gmail.com-121212?style=flat-square&logo=gmail&logoColor=C9A66B" alt="Email" /></a>
 <a href="https://doctorspace.pk"><img src="https://img.shields.io/badge/DoctorSpace-doctorspace.pk-121212?style=flat-square&logo=googlechrome&logoColor=C9A66B" alt="DoctorSpace" /></a>
 <a href="https://fvture.co"><img src="https://img.shields.io/badge/FVTURE-fvture.co-121212?style=flat-square&logo=googlechrome&logoColor=B8954A" alt="FVTURE" /></a>
@@ -177,112 +181,83 @@ Web apps, dashboards, mobile clients, conversion-focused UX, design systems.
 ---
 
 <div align="center">
-
-<!-- Slightly richer mesh for the stack showcase + gentle fade -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:121212,40:151210,68:221A12,88:3A2A18,100:6E4E28&height=78&section=header&text=Technology%20Stack&fontSize=24&fontColor=F7F1E8&fontAlignY=50&animation=fadeIn" width="100%" alt="Technology Stack" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/▸_FRONTEND-121212?style=for-the-badge&labelColor=121212&color=C9A66B" alt="Frontend" />
-
-<br /><br />
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,threejs&theme=dark&perline=6" alt="Frontend skills" />
-</a>
+</div>
 
 <br />
-<img src="https://skillicons.dev/icons?i=html,css,vite,figma&theme=dark&perline=4" alt="Frontend extras" />
+
+A production stack chosen for **clarity, speed, and long-term scale** — typed end to end, strong data foundations, and deployable cloud workflows.
+
+<div align="center">
+
+<br />
+
+<!-- Core strengths (gold skill tree) -->
+<img src="https://readmeforge.natrajx.in/api/skill-tree?skills=TypeScript:93,Next.js:91,NestJS:89,PostgreSQL:88,System+Architecture:92,AWS+%26+DevOps:84&metal=gold&width=760" alt="Core strengths" />
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:121212,100:2A2016&height=6&section=header&animation=fadeIn" width="42%" alt="" />
+<img src="https://readmeforge.natrajx.in/api/divider?style=dots&metal=gold&width=420" width="38%" alt="" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/▸_BACKEND-121212?style=for-the-badge&labelColor=121212&color=B8954A" alt="Backend" />
-
-<br /><br />
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,prisma,ts&theme=dark&perline=6" alt="Backend skills" />
-</a>
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:121212,100:2A2016&height=6&section=header&animation=fadeIn" width="42%" alt="" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/▸_DATA_&_CACHE-121212?style=for-the-badge&labelColor=121212&color=A67C3D" alt="Data" />
+<!-- Balanced icon bands — same width rhythm, dark theme -->
+<img src="https://img.shields.io/badge/PRODUCT_SURFACE-121212?style=flat-square&labelColor=121212&color=C9A66B" alt="Product Surface" />
 
 <br /><br />
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark&perline=4" alt="Database skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,threejs,vite,figma&theme=dark&perline=8" alt="Product surface skills" />
 </a>
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:121212,100:2A2016&height=6&section=header&animation=fadeIn" width="42%" alt="" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/▸_CLOUD_·_DEVOPS-121212?style=for-the-badge&labelColor=121212&color=8B6A32" alt="Cloud DevOps" />
+<img src="https://img.shields.io/badge/SYSTEMS_&_APIS-121212?style=flat-square&labelColor=121212&color=B8954A" alt="Systems and APIs" />
 
 <br /><br />
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,linux,githubactions,nginx&theme=dark&perline=6" alt="Cloud DevOps skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,prisma,postgres,mongodb,redis&theme=dark&perline=8" alt="Systems and API skills" />
 </a>
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:121212,100:2A2016&height=6&section=header&animation=fadeIn" width="42%" alt="" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/▸_MOBILE-121212?style=for-the-badge&labelColor=121212&color=C9A66B" alt="Mobile" />
+<img src="https://img.shields.io/badge/PLATFORM_&_MOBILE-121212?style=flat-square&labelColor=121212&color=A67C3D" alt="Platform and Mobile" />
 
 <br /><br />
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,apple&theme=dark&perline=4" alt="Mobile skills" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,linux,githubactions,nginx,flutter,apple&theme=dark&perline=8" alt="Platform and mobile skills" />
 </a>
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:121212,100:2A2016&height=6&section=header&animation=fadeIn" width="42%" alt="" />
+<img src="https://img.shields.io/badge/INTELLIGENCE_LAYER-121212?style=flat-square&labelColor=121212&color=8B6A32" alt="Intelligence" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/▸_AI_&_AUTOMATION-121212?style=for-the-badge&labelColor=121212&color=B8954A" alt="AI" />
+<img src="https://img.shields.io/badge/OpenAI-121212?style=flat-square&logo=openai&logoColor=C9A66B" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Claude-121212?style=flat-square&logo=anthropic&logoColor=C9A66B" alt="Claude" />
+<img src="https://img.shields.io/badge/Gemini-121212?style=flat-square&logo=googlegemini&logoColor=C9A66B" alt="Gemini" />
+<img src="https://img.shields.io/badge/n8n-121212?style=flat-square&logo=n8n&logoColor=C9A66B" alt="n8n" />
+<img src="https://img.shields.io/badge/AI%20Agents-181410?style=flat-square&color=C9A66B" alt="AI Agents" />
+<img src="https://img.shields.io/badge/Automation-181410?style=flat-square&color=B8954A" alt="Automation" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/OpenAI-121212?style=for-the-badge&logo=openai&logoColor=C9A66B" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Claude-121212?style=for-the-badge&logo=anthropic&logoColor=C9A66B" alt="Claude" />
-<img src="https://img.shields.io/badge/Gemini-121212?style=for-the-badge&logo=googlegemini&logoColor=C9A66B" alt="Gemini" />
-<img src="https://img.shields.io/badge/n8n-121212?style=for-the-badge&logo=n8n&logoColor=C9A66B" alt="n8n" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/AI%20Agents-181410?style=for-the-badge&color=C9A66B" alt="AI Agents" />
-<img src="https://img.shields.io/badge/Workflow%20Automation-181410?style=for-the-badge&color=B8954A" alt="Automation" />
-<img src="https://img.shields.io/badge/Custom%20Integrations-181410?style=for-the-badge&color=A67C3D" alt="Integrations" />
+<!-- Soft terminal profile card -->
+<img src="https://readmeforge.natrajx.in/api/terminal?title=~/daud-ahmed&lines=role:+full+stack+architecture+developer|focus:+saas+%C2%B7+healthcare+%C2%B7+enterprise+%C2%B7+ai|stack:+typescript+%C2%B7+next+%C2%B7+nest+%C2%B7+postgres|mode:+architecture-first+%C2%B7+ship+complete+systems&metal=obsidian&width=760" alt="Developer terminal" />
 
 </div>
 
 <br />
 
-**Stack at a glance**
+**How the stack fits together**
 
-- **Frontend** — React · Next.js · TypeScript · Tailwind CSS · Redux · Three.js · Vite · Figma  
-- **Backend** — Node.js · NestJS · Express · REST APIs · GraphQL · Prisma  
-- **Databases** — PostgreSQL · MongoDB · MySQL · Redis  
-- **Cloud & DevOps** — Docker · AWS · Vercel · CI/CD · GitHub Actions · Linux · Nginx  
-- **Mobile** — React Native · Flutter · Android Studio · Apple platform tooling  
-- **AI & Automation** — OpenAI · Claude · Gemini · n8n · AI agents · workflow automation  
+- **Product Surface** — React · Next.js · TypeScript · Tailwind · Redux · Three.js · Vite · Figma  
+- **Systems & APIs** — Node.js · NestJS · Express · GraphQL · Prisma · PostgreSQL · MongoDB · Redis  
+- **Platform & Mobile** — Docker · AWS · Vercel · Linux · GitHub Actions · Nginx · Flutter · React Native  
+- **Intelligence** — OpenAI · Claude · Gemini · n8n · agents · workflow automation  
 
 <div align="center">
 <br />
@@ -480,6 +455,49 @@ Optimize performance, reliability, infrastructure, and observability as usage gr
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:121212,65:141210,100:221A12&height=68&section=header&text=Currently%20Focused%20On&fontSize=22&fontColor=C9A66B&fontAlignY=50&animation=fadeIn" width="100%" alt="Currently Focused On" />
+</div>
+
+<br />
+
+What I'm sharpening and shipping right now:
+
+- **Scalable SaaS architecture** — tenancy, RBAC, billing-ready product foundations  
+- **Healthcare product systems** — clinic ops, patient journeys, secure multi-role access  
+- **AI-assisted workflows** — agents and automation that remove real operational drag  
+- **Premium product experiences** — conversion-minded UI with architecture that can grow  
+
+<div align="center">
+<br />
+<img src="https://img.shields.io/badge/Building-DoctorSpace%20%26%20FVTURE-121212?style=for-the-badge&labelColor=181410&color=C9A66B" alt="Building" />
+<img src="https://img.shields.io/badge/Open%20to-Architecture%20%26%20Product%20Work-121212?style=for-the-badge&labelColor=181410&color=B8954A" alt="Open to work" />
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:121212,65:141210,100:221A12&height=68&section=header&text=Working%20With%20Me&fontSize=22&fontColor=C9A66B&fontAlignY=50&animation=fadeIn" width="100%" alt="Working With Me" />
+</div>
+
+<br />
+
+If we collaborate, you get more than screens — you get a complete product system thinking partner.
+
+- **Clear architecture early** — so features don't paint the product into a corner  
+- **End-to-end ownership** — frontend, backend, data, auth, and deployment considered together  
+- **Business-aware decisions** — every module should reduce friction or unlock growth  
+- **Production-minded delivery** — security, performance, and maintainability built in  
+- **Honest tradeoffs** — ship what matters first, design the rest to scale  
+
+Best fit for:
+
+- startups building the first serious version of a SaaS product  
+- businesses replacing fragmented ops with one coherent platform  
+- teams that need healthcare, enterprise, mobile, or AI systems done properly  
+
+---
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:121212,65:141210,100:221A12&height=68&section=header&text=Current%20Mission&fontSize=22&fontColor=C9A66B&fontAlignY=50&animation=fadeIn" width="100%" alt="Current Mission" />
 </div>
 
@@ -494,6 +512,10 @@ I want every product I ship to feel intentional: clear for users, strong under l
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:121212,40:151210,68:221A12,88:3A2A18,100:6E4E28&height=78&section=header&text=Connect%20With%20Me&fontSize=24&fontColor=F7F1E8&fontAlignY=50&animation=fadeIn" width="100%" alt="Connect" />
+
+<br /><br />
+
+<img src="https://readmeforge.natrajx.in/api/badge?label=Status&value=Open+to+Collaborate&metal=gold&shape=pill" alt="Open to collaborate" />
 
 <br /><br />
 
